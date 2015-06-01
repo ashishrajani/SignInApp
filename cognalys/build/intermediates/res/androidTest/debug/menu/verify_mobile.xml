@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.inzane.cognalys.VerifyMobile" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+      />
+
+</menu>
+<!-- From: file:/E:/ExotelChallenge/cognalys/src/main/res/menu/verify_mobile.xml --><!-- From: file:/E:/ExotelChallenge/cognalys/build/intermediates/bundles/debug/res/menu/verify_mobile.xml -->

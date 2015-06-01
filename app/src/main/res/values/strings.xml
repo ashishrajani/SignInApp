@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExotelChallenge</string>
+<string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="title_activity_splash">Splash</string>
+        <string name="title_activity_user_detail_sign_up">UserDetailSignUpActivity</string>
+        <string name="title_activity_initial_check">ExotelChallenge</string>
+        <string name="title_activity_welcome">WelcomeActivity</string>
+        <string name="title_activity_otp_verification">OtpVerificationActivity</string>
+</resources>
